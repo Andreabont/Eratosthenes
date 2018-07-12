@@ -5,7 +5,6 @@ Installing the dependencies
 ---------------------------
 - cmake
 - libboost
-- libpcap
 
 Compile!
 --------
