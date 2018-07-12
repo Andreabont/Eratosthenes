@@ -7,7 +7,7 @@ const int CHUNK_NUMBER = 1;
 
 int main(int argc, char *argv[]) {
     
-    boost::program_options::options_description po ("Eratostene");
+    boost::program_options::options_description po ("Sieve of Eratosthenes");
 
     po.add_options()
         ("help,h", "Help")
